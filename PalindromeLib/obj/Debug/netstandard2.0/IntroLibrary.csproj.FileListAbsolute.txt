@@ -1,0 +1,10 @@
+C:\Development\Visual Studio\Intro\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.deps.json
+C:\Development\Visual Studio\Intro\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.dll
+C:\Development\Visual Studio\Intro\IntroLibrary\bin\Debug\netstandard2.0\IntroLibrary.pdb
+C:\Development\Visual Studio\Intro\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.csproj.AssemblyReference.cache
+C:\Development\Visual Studio\Intro\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Visual Studio\Intro\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.AssemblyInfoInputs.cache
+C:\Development\Visual Studio\Intro\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.AssemblyInfo.cs
+C:\Development\Visual Studio\Intro\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.csproj.CoreCompileInputs.cache
+C:\Development\Visual Studio\Intro\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.dll
+C:\Development\Visual Studio\Intro\IntroLibrary\obj\Debug\netstandard2.0\IntroLibrary.pdb

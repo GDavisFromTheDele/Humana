@@ -1,0 +1,10 @@
+C:\Development\Visual Studio\Intro\PalindromeLib\bin\Debug\netstandard2.0\PalindromeLib.deps.json
+C:\Development\Visual Studio\Intro\PalindromeLib\bin\Debug\netstandard2.0\PalindromeLib.dll
+C:\Development\Visual Studio\Intro\PalindromeLib\bin\Debug\netstandard2.0\PalindromeLib.pdb
+C:\Development\Visual Studio\Intro\PalindromeLib\obj\Debug\netstandard2.0\PalindromeLib.csproj.AssemblyReference.cache
+C:\Development\Visual Studio\Intro\PalindromeLib\obj\Debug\netstandard2.0\PalindromeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Visual Studio\Intro\PalindromeLib\obj\Debug\netstandard2.0\PalindromeLib.AssemblyInfoInputs.cache
+C:\Development\Visual Studio\Intro\PalindromeLib\obj\Debug\netstandard2.0\PalindromeLib.AssemblyInfo.cs
+C:\Development\Visual Studio\Intro\PalindromeLib\obj\Debug\netstandard2.0\PalindromeLib.csproj.CoreCompileInputs.cache
+C:\Development\Visual Studio\Intro\PalindromeLib\obj\Debug\netstandard2.0\PalindromeLib.dll
+C:\Development\Visual Studio\Intro\PalindromeLib\obj\Debug\netstandard2.0\PalindromeLib.pdb
